@@ -101,9 +101,9 @@ SET TXT=video&goto :QUALITY%QUALITY%
 :QUALITY1
 set "MODE="&set QUANAME= in %_hks%best quality%_hke%&goto :DOWNLOAD
 :QUALITY2
-set MODE=-f ^"bv*^[height^<=720^]+ba^/b^[height^<=720^] / wv*+ba/w^"&set "QUANAME=/%_hks%720p%_hke%"&goto :DOWNLOAD
-:QUALITY3
 set MODE=-f ^"bv*^[height^<=1080^]+ba^/b^[height^<=1080^] / wv*+ba/w^"&set "QUANAME=/%_hks%1080p%_hke%"&goto :DOWNLOAD
+:QUALITY3
+set MODE=-f ^"bv*^[height^<=720^]+ba^/b^[height^<=720^] / wv*+ba/w^"&set "QUANAME=/%_hks%720p%_hke%"&goto :DOWNLOAD
 :QUALITY4
 set MODE=-f ^"bv*^[height^<=360^]+ba^/b^[height^<=360^] / wv*+ba/w^"&set "QUANAME=/%_hks%360p%_hke%"&goto :DOWNLOAD
 
