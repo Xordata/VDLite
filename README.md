@@ -36,6 +36,9 @@
 Для возврата в меню - просто нажать Enter.
 
 Опции переключаются при нажатии клавиш. Текущее значение отображается выделением цветом (если возможно) и скобками.
+# Для пароноиков
+* https://www.virustotal.com/gui/url/99eeb081aa3e07753d0cd44087a6ac828ce048e41056e82f19809d6e09f027a0?nocache=1
+* https://www.virustotal.com/gui/file-analysis/NjVhMjA3Y2YzZTViOTYyMzZhZTE3MGM5MGIyODUyYmU6MTc2NjQ5ODIzMA==
 
 # ЧАВО
 * Программа "пищит" - проверьте раскладку клавиатуры. Должна быть либо RUS, либо ENG.
